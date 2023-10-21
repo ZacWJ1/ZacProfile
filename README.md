@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [zacwj.netlify.app](zacwj.netlify.app)
 
-- 📝 I regularly write articles on [twitter @ZacWJ](twitter @ZacWJ)
+- 📝 I regularly write articles on twitter @ZacWJ
 
 - 💬 Ask me about **Node, React, and Javascript**
 
 - 📫 How to reach me **zacwjdevs@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences **https://www.linkedin.com/in/zac-willhide-james/**
 
 - ⚡ Fun fact **I think I'm funny.**
 
