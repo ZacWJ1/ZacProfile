@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/zac-willhide-james/**
 
-- ⚡ Fun fact **I think I'm funny.**
+- ⚡ Fun fact **I won a dance contest.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
