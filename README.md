@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unity and TypeScript**
 
-- 👨‍💻 All of my projects are available at [zacwj.netlify.app](zacwj.netlify.app)
+- 👨‍💻 All of my projects are available at [(https://github.com/ZacWJ1?tab=repositories)]
 
 - 📝 I regularly write articles on twitter @ZacWJ
 
